@@ -34,19 +34,6 @@ scrcpy --version
 
 ---
 
-## 🔨 Recompilar desde cero
-
-Usa el script `build_scrcpy_fedora.sh` incluido en este repositorio:
-
-```bash
-chmod +x build_scrcpy_fedora.sh
-./build_scrcpy_fedora.sh
-```
-
-El script **detecta automáticamente la última versión estable** desde la API de GitHub y la compila.
-
----
-
 ## 📄 Licencia
 
 scrcpy es software libre bajo la [licencia Apache 2.0](https://github.com/Genymobile/scrcpy/blob/master/LICENSE).

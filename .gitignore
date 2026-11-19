@@ -1,14 +1,6 @@
-# Binarios grandes (usar GitHub Releases)
-packages/*.rpm
-
-# Archivos de compilación
-scrcpy-build/
+# Archivos ignorados
+*.rpm
 *.tar.gz
 *.tar.xz
 scrcpy-server-*
-
-# Temporales
-*.o
-*.a
-*.so
 *.tmp
